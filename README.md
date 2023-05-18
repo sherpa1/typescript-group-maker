@@ -1,5 +1,8 @@
 # Group Maker
 
+Application de génération de groupes multi-critères. 
+
+Introduction à la pratique du Test-Driven Development en TypeScript.
 
 ## Installation
 
