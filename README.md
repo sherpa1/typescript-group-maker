@@ -1,12 +1,5 @@
-# TypeScript Starter Kit
+# Group Maker
 
-Configuration de base pour un projet TypeScript : 
-- Eslint,
-- TS Config,
-- Jest,
-- Nodemon,
-- Gitignore
-- Dépendances NPM
 
 ## Installation
 
