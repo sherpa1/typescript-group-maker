@@ -23,6 +23,10 @@ Avant toute utilisation, installer les dépendances NPM :
 `npm run build`
 
 
+## Documentation utile
+
+https://codingnconcepts.com/javascript/how-to-divide-array-in-equal-parts-in-javascript/
+
 --
 
 <img src="https://sherpa.one/images/sherpa-logotype.png" width="120px">
